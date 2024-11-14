@@ -1,0 +1,90 @@
+{
+    "map": {
+        "mode": "competitive",
+        "name": "de_dust2",
+        "num_matches_to_win_series": 0,
+        "phase": "live",
+        "round": 5,
+        "round_wins": {
+            "1": "ct_win_time",
+            "2": "t_win_elimination",
+            "3": "ct_win_elimination",
+            "4": "ct_win_time",
+            "5": "ct_win_time"
+        },
+        "team_ct": {
+            "consecutive_round_losses": 0,
+            "matches_won_this_series": 0,
+            "score": 4,
+            "timeouts_remaining": 1
+        },
+        "team_t": {
+            "consecutive_round_losses": 3,
+            "matches_won_this_series": 0,
+            "score": 1,
+            "timeouts_remaining": 1
+        }
+    },
+    "player": {
+        "activity": "playing",
+        "match_stats": {
+            "assists": 0,
+            "deaths": 3,
+            "kills": 1,
+            "mvps": 1,
+            "score": 0
+        },
+        "name": "Shots: 1",
+        "observer_slot": 1,
+        "state": {
+            "armor": 0,
+            "burning": 0,
+            "equip_value": 200,
+            "flashed": 0,
+            "health": 100,
+            "helmet": false,
+            "money": 7050,
+            "round_killhs": 0,
+            "round_kills": 0,
+            "smoked": 0
+        },
+        "steamid": "76561199665030184",
+        "team": "T",
+        "weapons": {
+            "weapon_0": {
+                "name": "weapon_knife_t",
+                "paintkit": "default",
+                "state": "holstered",
+                "type": "Knife"
+            },
+            "weapon_1": {
+                "name": "weapon_c4",
+                "paintkit": "default",
+                "state": "holstered",
+                "type": "C4"
+            },
+            "weapon_2": {
+                "ammo_clip": 19,
+                "ammo_clip_max": 20,
+                "ammo_reserve": 103,
+                "name": "weapon_glock",
+                "paintkit": "default",
+                "state": "active",
+                "type": "Pistol"
+            }
+        }
+    },
+    "previously": {
+        "player": {
+            "weapons": {
+                "weapon_2": {
+                    "ammo_clip": 20,
+                    "state": "reloading"
+                }
+            }
+        }
+    },
+    "round": {
+        "phase": "live"
+    }
+}
